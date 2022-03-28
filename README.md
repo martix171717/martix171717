@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martyna @martix171717
 
 - ✨ In November 2021 I finished Kodilla Bootcamp Python Developer - a 4-month Python programming course from scratch
-to theadvanced level with a focus on quick use of the languagein practice.
+to the advanced level with a focus on quick use of the language in practice.
 
 Learned technologies and working tools:
 Python 3, Flask, Flask-WTF, WTForms, REST, Git, SQL, VisualStudio Code, Bootstrap, HTML, CSS, Pytest, JupyterNotebook.
