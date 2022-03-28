@@ -4,6 +4,7 @@
 to the advanced level with a focus on quick use of the language in practice.
 
   Learned technologies and working tools:
+  
   Python 3, Flask, Flask-WTF, WTForms, REST, Git, SQL, VisualStudio Code, Bootstrap, HTML, CSS, Pytest, JupyterNotebook.
 
 - 🌱 I'm currently participating in the course: Business Analytics Nanodegree Program - Udacity Tech Scholarship 
